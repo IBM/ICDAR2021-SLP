@@ -26,6 +26,9 @@ aims to drive the advances in the following two problems:
  - Task: Identifying the position and category of document layout elements, including title, text, figure, table, and list.
  - Metric: [Mean Average Precision @ IoU 0.5:0.05:0.95](http://cocodataset.org/#detection-eval)
  - Participate: (LINK TO BE ADDED)
+ - Important dates:  
+ ..* Open for submission:
+ ..* Open for submission:
 
 
 ## Task B: Table recognition
