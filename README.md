@@ -27,8 +27,9 @@ aims to drive the advances in the following two problems:
  - Metric: [Mean Average Precision @ IoU 0.5:0.05:0.95](http://cocodataset.org/#detection-eval)
  - Participate: (LINK TO BE ADDED)
  - Important dates:  
- ..* Open for submission:
- ..* Open for submission:
+   * Open for submission: 20th July, 2020
+   * Submission close: 31st March, 2021
+   * Announcement of winning team: 1st May, 2021
 
 
 ## Task B: Table recognition
@@ -37,3 +38,8 @@ aims to drive the advances in the following two problems:
  - Task: Converting table images into HTML code
  - Metric: [TEDS](https://github.com/ibm-aur-nlp/PubTabNet/tree/master/src)
  - Participate: (LINK TO BE ADDED)
+ - Important dates:  
+   * Open for test submission: 20th July, 2020
+   * Open for final evaluation submission: 28th March, 2021
+   * Submission close: 31st March, 2021
+   * Announcement of winning team: 1st May, 2021
