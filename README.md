@@ -43,3 +43,14 @@ aims to drive the advances in the following two problems:
    * Open for final evaluation submission: 28th March, 2021
    * Submission close: 31st March, 2021
    * Announcement of winning team: 1st May, 2021
+
+
+## Terms and conditions
+ - One team must be registered with one and only one account.
+ - The maximum team size is 8 people.
+ - Team mergers are NOT allowed.
+ - This competition is open to every one, except to those who have a conflict of interest with the organizers.
+ - Winning teams are strongly encouraged to release their code to help the community to reproduce their results and develop better models. If code cannot be released, winning teams must at least allow the organizers to reproduce their method and results for legitimacy verification.
+ - For entries made by non-IBM employees IBM will make no claim to ownership of your entry or any intellectual property that it may contain. When submitting model source code, the code will be used for the sole purpose of verifying the legitimacy of the submission. Participants keep copyright to their code submissions.
+ - It is allowed to use additional third-party data or pre-trained models for performance improvement.
+ - Participants MUST NOT include human intervention in their method or take any manner to reverse engineer the ground truth of the test set, which will be treated as cheating and the participants will be banned to take part in this competition and future continuous competitions.
