@@ -25,7 +25,7 @@ aims to drive the advances in the following two problems:
  - Dataset: [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)
  - Task: Identifying the position and category of document layout elements, including title, text, figure, table, and list.
  - Metric: [Mean Average Precision @ IoU 0.5:0.05:0.95](http://cocodataset.org/#detection-eval)
- - Participate: (LINK TO BE ADDED)
+ - [Participate](https://aieval.draco.res.ibm.com/challenge/41/overview)
  - Important dates:  
    * Open for submission: 20th July, 2020
    * Submission close: 31st March, 2021
@@ -37,7 +37,7 @@ aims to drive the advances in the following two problems:
  - Dataset: [PubTabNet](https://github.com/ibm-aur-nlp/PubTabNet)
  - Task: Converting table images into HTML code
  - Metric: [TEDS](https://github.com/ibm-aur-nlp/PubTabNet/tree/master/src)
- - Participate: (LINK TO BE ADDED)
+ - [Participate](https://aieval.draco.res.ibm.com/challenge/40/overview)
  - Important dates:  
    * Open for test submission: 20th July, 2020
    * Open for final evaluation submission: 28th March, 2021
