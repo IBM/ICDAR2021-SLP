@@ -10,7 +10,7 @@ devices for humans to consume, it’s not a format that machines can understand.
 
 A critical challenge for automated information extraction from scientific
 literature is that the documents often contain content that is not in natural
-language, such as figures and table. Nevertheless, such content usually
+language, such as figures and tables. Nevertheless, such content usually
 illustrates key results, messages, or summarizations of the research. To obtain
 a comprehensive understanding of scientific literature, the automated system
 must be able to recognize the layout of the documents and parse the
